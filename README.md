@@ -1,4 +1,4 @@
-# tallerJava
+# Taller de Conocimiento Java.
 ejercicios 29-09-2023
 
 1. Crear y recorrer un listado de palabras (mínimo 5).
